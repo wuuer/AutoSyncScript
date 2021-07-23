@@ -1,4 +1,4 @@
-name: Peng-YM-sync
+name: smiek2221-sync
 on:
   schedule:
     - cron: '1 */3 * * *'
