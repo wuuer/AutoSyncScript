@@ -1,7 +1,7 @@
 name: JDHelloWorld
 on:
   schedule:
-    - cron: '11 */3 * * *'
+    - cron: '11 */1 * * *'
   workflow_dispatch:
   watch:
     types: started
